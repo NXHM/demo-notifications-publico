@@ -12,7 +12,7 @@
 3. Elegir el protocolo de email, pues el formato que se usará para enviar las notificaciones al usuario
 
 ### Para el código
-
+**Debes tener Python instalado**
 1. Crear un entorno virtual e inicializalo para mantener las dependencias del proyecto aisladas. Puedes hacerlo con los siguientes comandos:
 
     - En Linux:
