@@ -221,7 +221,7 @@ Almacenan los datos como documentos en formato JSON, BSON, o XML. Cada documento
 
 - Es otra demo completo para el uso y buenas prácticas de DynamoDB: <https://github.com/alexdebrie/dynamodb-instagram> (Villalba & DeBrie, 2021)
 
-- Es la documentación de boto3: <https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dynamodb.html> (AWS (s.f))
+- Es la documentación de boto3: <https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dynamodb.html> (AWS ,s.f)
 
 ## Fuentes
 
